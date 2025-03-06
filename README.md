@@ -25,7 +25,7 @@ Modify the following paths to match your environment:
 ### 2. Run the Script
 Execute the script:
 ```bash
-python convert_yolov9.py
+python export.py
 ```
 After execution, the converted ONNX model will be saved at the specified location.
 
